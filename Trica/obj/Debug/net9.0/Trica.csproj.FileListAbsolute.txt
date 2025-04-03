@@ -1,0 +1,14 @@
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\bin\Debug\net9.0\Trica.exe
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\bin\Debug\net9.0\Trica.deps.json
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\bin\Debug\net9.0\Trica.runtimeconfig.json
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\bin\Debug\net9.0\Trica.dll
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\bin\Debug\net9.0\Trica.pdb
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.AssemblyInfoInputs.cache
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.AssemblyInfo.cs
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.csproj.CoreCompileInputs.cache
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.dll
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\refint\Trica.dll
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.pdb
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\Trica.genruntimeconfig.cache
+C:\Users\Mijael Ander\Desktop\csharp\Examen\Trica\obj\Debug\net9.0\ref\Trica.dll
